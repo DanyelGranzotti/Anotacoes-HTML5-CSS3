@@ -12,8 +12,7 @@
 </p>
 
 <h2>Download:</h2>
-<hr/>
 Se quisermos fazer download de algum arquivo, podemos passar o endereço do arquivo em href e passar para a tag < a> o atributo “download”.
 
-    <a href="url.com" download="nomedoarquivo">Google</a>
+    <a href="url.com" download="nomedoarquivo">Exemplo</a>
 
