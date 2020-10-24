@@ -3,7 +3,7 @@
 
 <P>Uma lista ordenada começa com a tag < ol>. Cada item da lista começa com uma tag < li>.</p>
 
-<br/>
+<hr/>
 
 <h3>Exemplo:</h3>
 
@@ -18,7 +18,7 @@
 <li>Café</li>
 <li>Leite</li>
 </ol>
-<br/>
+<hr/>
 <p>
 
 Podemos passar um atributo “type” para a tag < ol> para indicar o tipo de ordenação que queremos.
