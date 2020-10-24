@@ -1,6 +1,5 @@
 <h1>Progress e Meter</h1>
-<p>Uma lista ordenada também é uma lista de itens. A lista de itens é marcada com números.
-A lista ordenada começa com a tag < ol>. Cada item da lista começa com uma tag < li>.</p>
+<p>Para representar o progresso de algum processo usamos a tag de progresso. Passamos o valor total do progresso no atributo “max”, e o valor do progresso em “value”..</p>
 <br/>
 <p>
 <h3>Exemplo:</h3>
