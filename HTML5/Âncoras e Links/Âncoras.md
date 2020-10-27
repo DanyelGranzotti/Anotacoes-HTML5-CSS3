@@ -1,5 +1,4 @@
 <h1>Âncoras</h1>
-</p>Link de âncora (ou "desvio de página") é uma URL especial que direciona você para um lugar específico da página. Para isso, basta passar um atributo “id” com um nome para o elemento que se quer localizar, e passar esse nome no href com “#”.</p>
 <br/>
 <h3>Exemplo:</h3>
 
