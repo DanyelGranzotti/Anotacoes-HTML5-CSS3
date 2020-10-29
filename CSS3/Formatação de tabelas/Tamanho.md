@@ -1,13 +1,22 @@
+<style>
+    table {
+    width: 100%;
+    }
+
+    th {
+    height: 70px;
+    }
+</style>
 <h1>Tamanho e tabelas</h1>
 <p>
 A largura e a altura de uma tabela são definidas pelas propriedades de "widht" e "height".
 </p>
 <h3>Exemplo:</h3>
-<table width:100%>
+<table>
   <tbody><tr>
-  <th height:70px>Firstname</th>
-  <th height:70px>Lastname</th>
-  <th height:70px>Savings</th>
+  <th>Firstname</th>
+  <th>Lastname</th>
+  <th>Savings</th>
   </tr>
   <tr>
   <td>Peter</td>
