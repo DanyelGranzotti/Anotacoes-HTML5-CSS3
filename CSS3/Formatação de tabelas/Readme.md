@@ -2,7 +2,7 @@
 
 
 <ul>
-<li font-size=16pt><a href="linkpastabordas">Bordas</a></li>
+<li font-size=16pt><a href="Bordas.md">Bordas</a></li>
 <li font-size=16pt><a href="linkpastabordas">Tamanho da tabela</a></li>
 <li font-size=16pt><a href="linkpastabordas">Alinhamento</a></li>
 <li font-size=16pt><a href="linkpastabordas">Estilo</a></li>
