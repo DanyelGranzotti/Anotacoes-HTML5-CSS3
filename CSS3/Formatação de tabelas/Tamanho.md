@@ -3,11 +3,11 @@
 A largura e a altura de uma tabela são definidas pelas propriedades de "widht" e "height".
 </p>
 <h3>Exemplo:</h3>
-<table>
+<table width:100%>
   <tbody><tr>
-  <th>Firstname</th>
-  <th>Lastname</th>
-  <th>Savings</th>
+  <th height:70px>Firstname</th>
+  <th height:70px>Lastname</th>
+  <th height:70px>Savings</th>
   </tr>
   <tr>
   <td>Peter</td>
@@ -35,3 +35,4 @@ A largura e a altura de uma tabela são definidas pelas propriedades de "widht" 
     th {
     height: 70px;
     }
+
