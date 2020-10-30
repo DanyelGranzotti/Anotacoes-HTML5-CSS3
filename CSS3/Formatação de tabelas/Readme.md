@@ -6,5 +6,4 @@
 <li font-size=16pt><a href="Tamanho.md">Tamanho</a></li>
 <li font-size=16pt><a href="Alinhamento.md">Alinhamento</a></li>
 <li font-size=16pt><a href="Estilo.md">Estilo</a></li>
-<li font-size=16pt><a href="Responsivo.md">Responsivo</a></li>
 </ul>
