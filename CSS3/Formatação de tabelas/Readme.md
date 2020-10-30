@@ -3,8 +3,8 @@
 
 <ul>
 <li font-size=16pt><a href="Bordas.md">Bordas</a></li>
-<li font-size=16pt><a href="linkpastabordas">Tamanho.md</a></li>
-<li font-size=16pt><a href="linkpastabordas">Alinhamento.md</a></li>
-<li font-size=16pt><a href="linkpastabordas">Estilo.md</a></li>
-<li font-size=16pt><a href="linkpastabordas">Responsivo.md</a></li>
+<li font-size=16pt><a href="Tamanho.md">Tamanho</a></li>
+<li font-size=16pt><a href="Alinhamento.md">Alinhamento</a></li>
+<li font-size=16pt><a href="Estilo.md">Estilo</a></li>
+<li font-size=16pt><a href="Responsivo.md">Responsivo</a></li>
 </ul>
