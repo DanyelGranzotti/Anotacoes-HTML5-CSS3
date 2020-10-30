@@ -42,3 +42,51 @@ Se você quiser apenas uma borda ao redor da tabela, especifique apenas a propri
     border: 1px solid black;
     }
 <hr/>
+
+
+<h2>Border Spacing</h2>
+<p>
+Indica a distância entre as bordas das células da tabela.
+</p>
+<h3>Exemplo:</h3>
+
+    table {
+    border-collapse: separate;
+    border-spacing: 10px 50px;
+    }
+<hr/>
+
+
+<h2>Caption Side</h2>
+<p>
+A tag <caption> indica onde a legenda da tabela será posicionada.
+</p>
+<h3>Exemplo:</h3>
+<h4>HTML:</h4>
+
+    <table>
+    <caption>Alunos</caption>
+    <thead>
+<h4>CSS:</h4>
+
+    table, td, tr, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+
+    caption {
+    caption-side: bottom;
+    }
+<hr/>
+
+
+<h2>Empty Cells</h2>
+<p>
+Define quando uma célula vazia deve ser oculta. Disponível apenas quando as bordas são separadas.
+</p>
+<h3>Exemplo:</h3>
+
+    table, td, tr, th{
+    border: 1px solid black;
+    empty-cells: hide;
+    }
