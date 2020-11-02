@@ -21,7 +21,7 @@ O seletor de id usa o atributo id de um elemento HTML para selecionar um element
 O id de um elemento é único dentro de uma página, então o seletor de id é usado para selecionar um elemento único!
 Para selecionar um elemento com um id específico, escreva um caractere hash (#), seguido pelo id do elemento.
 </p>
-<h3>Exemplo:<h3>
+<h3>Exemplo:</h3>
 
     #para1 {
     text-align: center;
@@ -34,7 +34,7 @@ Para selecionar um elemento com um id específico, escreva um caractere hash (#)
 O seletor de classes seleciona elementos HTML com um atributo de class específico.
 Para selecionar elementos com uma classe específica, escreva um caractere de ponto (.), seguido do nome da classe.
 </p>
-<h3>Exemplo:<h3>
+<h3>Exemplo:</h3>
 
     .center {
     text-align: center;
@@ -44,7 +44,7 @@ Para selecionar elementos com uma classe específica, escreva um caractere de po
 <p>
 Você também pode especificar que somente elementos HTML específicos devem ser afetados por uma classe.
 </p>
-<h3>Exemplo:<h3>
+<h3>Exemplo:</h3>
 
     p.center {
     text-align: center;
